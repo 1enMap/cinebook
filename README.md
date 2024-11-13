@@ -2,6 +2,10 @@
 
 ![CINEBOOK](https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?auto=format&fit=crop&q=80&w=1200)
 
+## Live Demo
+
+Check out the live version of this project [here](https://magical-custard-c8c3c1.netlify.app).
+
 CINEBOOK is a prototype movie booking platform built with React and TypeScript, demonstrating a modern and user-friendly interface for booking movie tickets online.
 
 ## ⚠️ Prototype Notice
